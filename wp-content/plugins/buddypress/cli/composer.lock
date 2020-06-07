@@ -875,20 +875,6 @@
             "homepage": "https://symfony.com",
             "time": "2016-07-30T07:22:48+00:00"
         },
-        {
-            "name": "symfony/dependency-injection",
-            "version": "v2.8.42",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/symfony/dependency-injection.git",
-                "reference": "0f42a0827d99a867ffd279ae083e7daf1fe42cb7"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/symfony/dependency-injection/zipball/0f42a0827d99a867ffd279ae083e7daf1fe42cb7",
-                "reference": "0f42a0827d99a867ffd279ae083e7daf1fe42cb7",
-                "shasum": ""
-            },
             "require": {
                 "php": ">=5.3.9"
             },
